@@ -48,4 +48,14 @@ The analytical workflow consists of the following stages:
   e. Calculate the topic distribution per document
   f. Calculate the topic trends over time
 
+**# Citation and Archiving**
+Zenodo DOI: doi.org/10.5281/zenodo.19742000
+
+**# Contact**
+For questions about the methodology or reuse of this workflow, please contact:
+David Wachira
+davidgakwachira@gmail.com 
+
+
+
 
