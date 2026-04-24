@@ -1,4 +1,4 @@
-**# Reproduceable_LDA_Library_Circulation**
+**# Reproducible_LDA_Library_Circulation**
 Reproducible LDA Topic Modeling for Library Book Circulation Data
 **# Overview**
 This repository provides a reproducible workflow for applying **Latent Dirichlet Allocation (LDA)** topic modeling in **R** to library physical book circulation data. The primary goal is to support libraries and similar institutions in analyzing thematic structure and thematic change over time using their own textual and circulation datasets.
@@ -6,7 +6,7 @@ The methodology is presented in an end‑to‑end, transparent manner, from data
 
 **# Research Context**
 This codebase accompanies the research paper:
-**# Understanding the Thematic Clusters and Evolution of Research Interests at a Library: A Reproduceable Methodology**
+**# Understanding the Thematic Clusters and Evolution of Research Interests at a Library: A Reproducible Methodology**
 
 The paper’s primary contribution is the methodological framework for applying LDA topic modeling in a library setting. Results derived from local circulation data serve as a case study illustrating the workflow, rather than as broadly generalizable findings.
 
