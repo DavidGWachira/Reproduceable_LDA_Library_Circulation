@@ -19,7 +19,7 @@ library("slam") #Sparse matrix operation
 rm(list = ls())
 
 # Set the working directory
-setwd("C:/Users/david.wachira/OneDrive - The University of South Dakota/Documents/David/JOB/Library Analysis/Book Borrowing")
+setwd("C:/Users/") # file location
 dir()
 
 # Read the dataset
