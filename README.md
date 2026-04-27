@@ -49,7 +49,7 @@ The analytical workflow consists of the following stages:
   f. Calculate the topic trends over time
 
 **# Citation and Archiving**
-Zenodo DOI: doi.org/10.5281/zenodo.19742000
+Zenodo DOI: doi.org/10.5281/zenodo.19741988
 
 **# Contact**
 For questions about the methodology or reuse of this workflow, please contact:
